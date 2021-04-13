@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="humidity">Humidity</string>
+    <string name="air_pressure">Air Pressure</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_direction">Wind Direction</string>
+    <string name="visibility">Visibility</string>
+    <string name="predictability">Predictability</string>
+    <string name="degreeSign">°</string>
+    <string name="percentSign">%</string>
+    <string name="mph">MPH</string>
+    <string name="inHg">inHg</string>
+    <string name="comma">,</string>
+    <string name="min">Min: </string>
+    <string name="max">Max: </string>
+    <string name="mileSign">mi</string>
+    <string name="weatherIconDescription">Weather Icon</string>
+</resources>
